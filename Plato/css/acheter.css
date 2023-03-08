@@ -1,0 +1,65 @@
+.boite {
+    padding: 0;
+    margin: 0;
+}
+
+.banner-img{
+    padding-top: 80px; 
+    margin: 0;
+    height: 100%;
+    border-bottom: 3px solid black;
+}
+
+.buy {
+    display: flex;
+    flex-direction:row    ;
+    justify-content: center;
+    padding-top: 50px;
+    
+
+    
+}
+
+.buy-text {
+   padding-top: 5   0px; 
+}
+
+.buy h1 {
+    text-align: center;
+}
+
+
+.buy-desc {
+    padding-left: 80px;
+    justify-content: center;
+}
+
+.buy p{
+    padding-top: 60px;
+    padding-bottom:50px;
+}
+
+.buy-button {
+    padding-top: 60px;
+}
+
+.buy a {
+    padding: 10px;
+    background-color:rgb(105, 177, 205) ;
+}
+
+.button {
+    padding-top: 60px;
+    display: flex;
+    justify-content: center; 
+}
+
+.buy input{
+    padding: 10px;
+
+}
+
+.star {
+    padding-bottom: 40px;
+}
+    

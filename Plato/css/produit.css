@@ -1,0 +1,86 @@
+.produit-titre {
+    padding-top: 140px;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.regles {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 80px 0;
+    
+    
+}
+
+.regle1{
+    width: 600px;
+}
+
+.regle2{
+    width: 600px;
+}
+
+.regles h2{
+    font-size: 50px;
+    padding: 50px;
+    text-decoration: underline;
+}
+
+.plato {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 80px 0;
+    
+    
+}
+
+.plato1{
+    width: 600px;
+}
+
+
+.plato h2{
+    font-size: 50px;
+    padding: 50px;
+    text-decoration: underline;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 80px 0;
+    
+    
+}
+
+.card1{
+    width: 600px;
+    padding: 0 50px;
+}
+
+.card2{
+    width: 600px;
+    padding: 0 50px;
+    
+}
+
+
+.card h2{
+    font-size: 50px;
+    padding: 50px;
+    text-decoration: underline;
+}
+
+.cartes {
+    display: flex;
+    direction: row;
+}
+
+
